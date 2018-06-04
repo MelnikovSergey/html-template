@@ -1,2 +1,2 @@
 # html-template
-A simple HTML5 template for quickly creating a web page
+A simple HTML template for quickly developing a web-page. Clone this template and begin the layout.
